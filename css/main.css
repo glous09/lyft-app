@@ -49,12 +49,24 @@
 }
 
 /*==========SING UP========*/
-#flags {
-  width: 120px;
-  height: 60px;
+.flags {
+  height: 30px;
 }
 
-  .flag {
-    width: 10%;
-    height: 60px;
-  }
+.input-select {
+  margin-right:20px;
+}
+
+.selected {
+  border: 1px solid black;
+  display: inline-block;
+  height: 90px;
+}
+
+.toped {
+  margin-top: 20px;
+}
+
+.boton-next {
+  margin-top: 20px;
+}
